@@ -1,2 +1,2 @@
 # town_hall-testing
-This README.md file contains information of the remaining contents. This project is a newly made Git Repository with code files "index.html" and "main.css" detailing the structure, content, styling, and layout of a single webpage upheld by specific guidelines as stated by the instructor. This is a test ground for viewing the widths of two townhall pages, one with, and one without a proper responsiveness. There is no alteration of these files, as it is for testing as directed.
+This is a test ground for viewing the widths of two townhall pages, one with, and one without a proper responsiveness. There is no alteration of these files, as it is for testing as directed.
